@@ -1,0 +1,16 @@
+body{
+    background-image: url(../img/subtle-dark-geometric-pattern.png);
+    background-repeat: repeat;
+    background-position:fixed;
+    background-size: cover;
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+input{
+    width: 100px;
+}
+
+.rut{
+    width: 100px;
+}
